@@ -1,5 +1,13 @@
 package com.m2.alert;
 
+/**
+ * 
+ * @author Suprint-
+ * 
+ * @author hoangha@microbenri.com.vn
+ * 
+ */
+
 import java.io.IOException;
 
 import android.app.Activity;
@@ -14,7 +22,6 @@ final class BeepManager {
 
 	private static final String TAG = BeepManager.class.getSimpleName();
 
-	// Demo
 	private static final float BEEP_VOLUME = 0.10f;
 	private static final long VIBRATE_DURATION = 200L;
 	
