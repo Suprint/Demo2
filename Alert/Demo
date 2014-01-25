@@ -1,6 +1,12 @@
+package com.m2.alert;
 /**
 *
 * @author Hoang Ha
 *
 *
 */
+
+public class NewDemoFile{
+	public NewDemoFile(){
+	}
+}
